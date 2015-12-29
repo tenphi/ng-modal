@@ -2,7 +2,7 @@
   "name": "tenphi-ng-modal",
   "version": "0.0.1",
   "description": "Lightweight modal windows for AngularJS",
-  "main": "lib/tnp-modal.js",
+  "main": "lib/modal.js",
   "scripts": {
     "compile": "webpack --config webpack.config.js",
     "prepublish": "npm run compile"
